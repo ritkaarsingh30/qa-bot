@@ -1,0 +1,14 @@
+# Unpinned on purpose: pin versions after your first successful install (pip freeze).
+fastapi
+uvicorn
+pydantic
+python-dotenv
+
+langgraph
+langgraph-checkpoint-sqlite
+langchain-core
+langchain-text-splitters
+langchain-google-genai
+langchain-groq
+
+chromadb
